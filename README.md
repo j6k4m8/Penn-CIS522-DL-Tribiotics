@@ -2,7 +2,7 @@
 
 Standard Training pipeline:
 Including Data preprocessing & Transfer Learning of ResNet: 
-https://colab.research.google.com/drive/1gm7ZMR2nmQxS42vv4Osw4D6XJQWHbOZv?usp=sharing
+https://colab.research.google.com/drive/1gm7ZMR2nmQxS42vv4Osw4D6XJQWHbOZv?usp=sharing <br/>
 (Anti masking training) - https://colab.research.google.com/drive/1SD2bzAuRItR6w8HCZgx4lprsx8KspsRr
 
 Baseline visualization & GRAD-CAM pipeline:
