@@ -1,6 +1,6 @@
 # CIS522-DL-Tribiotics
 
-Team Members:<br\>
+\textbt{Team Members}:<br/>
 Trevor Chan, Jordan Matelsky, Jiazhen Rong <br/>
 
 This repository contains our code for Upenn 2022 SPRING CIS 522 final project.<br/>
