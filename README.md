@@ -1,5 +1,10 @@
 # CIS522-DL-Tribiotics
 
+Team Members:<br\>
+Trevor Chan, Jordan Matelsky, Jiazhen Rong <br/>
+
+This repository contains our code for Upenn 2022 SPRING CIS 522 final project.<br/>
+
 Standard Training pipeline: <br/>
 Including Data preprocessing & Transfer Learning of ResNet:  <br/>
 https://colab.research.google.com/drive/1gm7ZMR2nmQxS42vv4Osw4D6XJQWHbOZv?usp=sharing <br/>
